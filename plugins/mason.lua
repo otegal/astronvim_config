@@ -10,7 +10,7 @@ return {
         "zls",           -- Zig
         "tsserver",      -- TypeScript
         "eslint",        -- TypeScript
-        "yamlls",        -- YAML
+        -- "yamlls",        -- YAML
         -- "solargraph",    -- Ruby
       })
     end,
